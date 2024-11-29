@@ -1,11 +1,12 @@
 <img src="https://www.doulos.com/media/1009/doulos-logo-header.svg" alt="Doulos" style="width: 150px;" align="right"/>
 
-# ESE Kompaktseminar: Edge AI, eine praktische Einführung 
+# ESE Kompaktseminar: Edge AI, eine praktische Einführung
 
-Seminar presented by **Loïc Domaigné** <br/>
-Senior Members Technical Staff, Doulos
+Seminar presented by: **Loïc Domaigné** <br/>
+Senior Member Technical Staff, Doulos
 
 Scheduled on: 02<sup>th</sup> Dec 2024
+<br/>
 
 ## License
 
