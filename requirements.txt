@@ -1,0 +1,7 @@
+jupyterlab
+wetterdienst
+tzdata
+pandas
+matplotlib
+scikit-learn
+tensorflow-cpu
